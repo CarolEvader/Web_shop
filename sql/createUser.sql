@@ -1,3 +1,4 @@
+
 CREATE TABLE t_user (
 	`id` INT (11) auto_increment,
 	`username` VARCHAR (20) NOT NULL UNIQUE,
